@@ -1,0 +1,31 @@
+.main {
+    background-color: olivedrab;
+    color: gold;
+    font-style: italic;
+    font-weight: bolder;
+    text-align: center;
+}
+#meals  {
+    color: red;
+    font-size: medium;
+    background-color: aliceblue;
+    font-weight: 700;
+}
+
+h1 {
+   background-color: aqua;
+   color: chocolate;
+   font-weight: bold;
+   font-style: oblique;
+   text-align: center;
+}
+.images {
+    width: 800px;
+    height: auto;
+} 
+h2{
+    background-color: rgb(32, 15, 15);
+    color: white;
+    text-align: center;
+
+}
